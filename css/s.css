@@ -1,0 +1,42 @@
+
+#box{
+    width: 500px;
+    height: 170px;
+    color: brown;
+    margin: 20px;
+   background-color: antiquewhite;
+ padding: 20px;
+border-width: 5px;
+border-color: black;
+border-style: solid;   
+float: left;
+
+}
+ul{
+    
+    height: 219px;
+    border-width: 5px;
+border-color: black;
+border-style: solid; 
+background-color: aqua;
+    color: blue;
+margin-left:50px ;
+    float: left;
+}
+
+ol{
+clear: both;
+}
+
+a{
+color: red;
+}
+
+a:hover{
+    color: black;
+    font-size: 50px;
+}
+
+a:visited{
+   
+    color: rgb(250, 16, 145);}

@@ -1,0 +1,26 @@
+*{
+color: blueviolet;
+background-color: beige;
+}
+
+body ul li{
+    color: #130606;
+}
+html body ul li{
+    color: rgb(64, 17, 203);
+}
+
+html body div ul li,
+html body div ol li
+{
+background-color: aliceblue;
+color: rgb(103, 93, 93);
+list-style-position: inside;
+}
+ul li{
+list-style-type: square; 
+}
+
+.a{
+color: aqua;
+}
